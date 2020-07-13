@@ -1,0 +1,7 @@
+acertifi==2020.6.20
+numpy==1.19.0
+pyobjc-core==6.2.2 
+pyobjc-framework-Cocoa==6.2.2 
+pyobjc-framework-Quartz==6.2.2
+imutils==0.5.3
+opencv-python==4.3.0.36
